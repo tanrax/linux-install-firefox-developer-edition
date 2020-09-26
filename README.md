@@ -2,7 +2,7 @@
 
 ![Firefox Developer Edition](firefox-developer.png)
 
-Script to install the latest version of Firefox Developer Edition on Linux with desktop integration
+Script to install the latest version of Firefox Developer Edition on Linux with desktop integration from Mozilla repository
 
 ## Use
 
