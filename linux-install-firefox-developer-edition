@@ -8,7 +8,7 @@ set -e
 sudo rm -rf /opt/firefox-developer/ /usr/bin/firefox-developer
 
 # DOWNLOAD
-curl -L -o firefox-developer.tar.bz2 https://download.mozilla.org/\?product\=firefox-devedition-latest-ssl\&os\=linux64\&lang\=en-US
+curl -L -o firefox-developer.tar.bz2 https://download.mozilla.org/?product=firefox-devedition-latest-ssl&os=linux64
 
 # EXTRACT
 tar -xf firefox-developer.tar.bz2
